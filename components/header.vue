@@ -1,6 +1,6 @@
 <script setup></script>
 <template>
-   <div class="bg-white h-20 fixed z-50 w-full">
+   <div class="bg-white bg-opacity-90 backdrop-filter backdrop-blur-sm h-20 fixed z-50 w-full">
      <div class="container mx-auto  h-full  ">
         <div class="flex justify-between items-center h-full ">
             <h1 class="text-3xl font-serif font-bold">Mamush Meshesha</h1>
